@@ -22,4 +22,4 @@ Python script developed to receive the alerts of hikvision NVR / DVR / Camera in
 ![image](https://user-images.githubusercontent.com/64651645/169856713-d47822bd-7b14-494e-a467-b982b9a0dc43.png)
 
 
-4. Run the script in this format: ./main.py 'token' '
+4. Run the script in this format: ./main.py 'your_bot_token' 'your_id'
